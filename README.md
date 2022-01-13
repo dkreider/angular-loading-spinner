@@ -1,4 +1,6 @@
-# LoadingSpinnerDemo
+# Loading Spinner Demo
+## [How to add a global loading spinner to an Angular application](https://danielk.tech/home/angular-how-to-add-a-loading-spinner)
+![angular-loading-spinner](https://danielk.tech/user/pages/01.home/angular-how-to-add-a-loading-spinner/angular%20loading%20spinner%20demo.gif "angular-loading-spinner")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
 
